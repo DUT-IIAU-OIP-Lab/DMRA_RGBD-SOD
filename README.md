@@ -5,7 +5,7 @@ Code repository for our paper entilted "Depth-induced Multi-scale Recurrent Atte
 ![avatar](https://github.com/jiwei0921/DMRA/blob/master/figure/overall.png)
 
 ## The proposed Dataset 
-+ Dataset: DUTLF
++ Dataset: DUTLF-V1
 1. This dataset consists of DUTLF-MV, DUTLF-FS, DUTLF-Depth.
 2. The dataset will be expanded to 3000 about real scenes.
 3. We are working on it and will make it publicly available soon. 
